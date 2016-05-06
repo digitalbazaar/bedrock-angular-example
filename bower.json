@@ -1,0 +1,10 @@
+{
+  "name": "bedrock-angular-example",
+  "version": "0.0.1-dev",
+  "main": "./index.js",
+  "moduleType": ["amd"],
+  "ignore": [],
+  "dependencies": {
+    "bedrock-angular": "^2.0.0"
+   }
+}
